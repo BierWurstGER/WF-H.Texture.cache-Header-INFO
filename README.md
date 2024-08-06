@@ -1,8 +1,8 @@
-# Warframe - Texture Mics Header Files
+# Warframe - Texture Header Files
 
-Warframe - Soulframe Texture Mics Header Files - all Magic Nummbers / enum
-<hr>
-MAGIC	 	HEX/DEC		 	END.:		 				 	INFO
+Warframe / Soulframe Texture Header Files - all Magic Numbers / enum from the `H.Texture.cache`
+
+# MAGIC HEX/DEC END.: INFO
 
 * Magic: `A3`  `163` `*_d.png` , `_t.png`|	Diffuse
 * Magic: `A4`  `164` `_id.png`|
@@ -19,4 +19,21 @@ MAGIC	 	HEX/DEC		 	END.:		 				 	INFO
 * Magic: `BC`  `188` `PackMap`|	ReferenceNormals and TintMask,Specular,Roughness,Diffuse
 * Magic: `C2`  `194`|	maybe like packmap ?
 * Magic: `C3`  `195` `PackMap`|	ReferenceNormals and ScratchGrimeCurvatureMap MacroRoughness
+
+
+
+# DDS FLAG_list	HEX DEC	
+
+* Flag:	|	`00` `0`
+* Flag:	|	`01` `1`
+* Flag:	|	`0A` `10`
+* Flag:	|	`0C` `12`
+* Flag:	|	`03` `3`
+* Flag:	|	`1F` `31`
+* Flag:	|	`20` `32`
+* Flag:	|	`21` `33`
+* Flag:	|	`22` `34`
+* Flag:	|	`23` `35`
+* Flag:	|	`06` `6`
+* Flag:	| `07` `7`
 
