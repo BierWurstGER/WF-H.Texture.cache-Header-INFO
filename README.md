@@ -23,7 +23,7 @@ Here is perhaps a complete list of all the H.cache files and their magic/enum li
 
  DDS FLAG_list	HEX DEC	
 
-** Flag:	|	`00` `0`
+* Flag:	|	`00` `0`
 * Flag:	|	`01` `1`
 * Flag:	|	`0A` `10`
 * Flag:	|	`0C` `12`
