@@ -43,3 +43,13 @@ Here is perhaps a complete list of all the H.cache files and their magic/enum li
 * Magic: `A6`  `166` `*_lpm.png`|
 * Magic: `B1`  `177` `*_smcube0.png`|
 * Magic: `B5`  `181` `*_cross.hdr`|
+
+DDS FLAG_list	HEX DEC	
+
+* Flag:	|	`00` `0`
+* Flag:	|	`01` `1`
+* Flag:	|	`0C` `12`
+* Flag:	|	`03` `3`
+* Flag:	|	`1E` `30`
+* Flag:	|	`23` `35`
+* Flag:	| `07` `7`
